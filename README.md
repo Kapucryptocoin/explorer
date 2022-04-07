@@ -12,14 +12,14 @@
 
 > Lead Maintainer: [Michel Kraaijeveld](https://github.com/ItsANameToo)
 
-You can access it at [https://explorer.ark.io/](https://explorer.ark.io/).
+You can access it at [https://explorer.kapu.one/](https://explorer.ark.io/).
 
 ## Build Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ArkEcosystem/explorer
+git clone https://github.com/Kapucryptocoin/explorer
 ```
 
 ### 2. Install Dependencies
